@@ -13,4 +13,4 @@ jobs:
             java-version: '16'
             distribution: 'temurin'
       - name: Compile project
-        run: mvn mvn --batch-mode compile
+        run: mvn --batch-mode compile
